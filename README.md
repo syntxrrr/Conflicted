@@ -1,2 +1,6 @@
 # conflicted-8bit
-Conflicted: 8-BIT
+Conflicted: ZERO (8-bit)
+
+Developers:<br>
+1. <pre>syntaxerrr</pre>
+2. <pre>larongbingo</pre>
