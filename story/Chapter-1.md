@@ -5,7 +5,7 @@ The antagonist is said to be the enemy, the one that get's in the way of the her
 
 After discovering the messed up truth, I wonder, which one am I...?
 
-It all started... At my house... I was just researching about the projects done in Raspberry Pi 3 and in the Arduino Uno R3. You see, I've been getting into microcontrollers and electronics, and applying code to them, as a neat hobby.
+It all started... At my house... I was just researching about the projects done in PCBs. You see, I've been getting into microcontrollers and electronics, and applying code to them, as a neat hobby.
 
 I then heard a feminine loud high-pitched voice, a yell "Hello, may I call upon Syne Nomine?"
 
