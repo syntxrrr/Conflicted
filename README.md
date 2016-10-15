@@ -3,7 +3,8 @@ Conflicted: ZERO (8-bit)
 
 Developers:<br>
 1. syntaxerrr<br>
-2. larongbingo
+2. larongbingo<br>
+3. karlosdraco
 
 General Roles of the Developers:
 The developers aren't assigned to a specific role, they're free to work on a certain part of the game.
